@@ -18,5 +18,5 @@
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
 
-![github stats](https://github-readme-stats.vercel.app/api?username=devnak&show_icons=true)
+![devnak's GitHub stats](https://github-readme-stats.vercel.app/api?username=devnak&show_icons=true&count_private=true&&hide=contribs,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
