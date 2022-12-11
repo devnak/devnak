@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👋 Junior Developer
 
-<!--
-**devnak/devnak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **새로운 기술을 배우는걸 좋아합니다.**
+- **도전을 두려워하지 않습니다.**
+- **매사에 최선을 다하자.**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## Languages
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+
+## Tools
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
+
+![github stats](https://github-readme-stats.vercel.app/api?username=devnak&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devnak&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
